@@ -1,0 +1,65 @@
+================================================================================
+KNOWLEDGE BASE: ONIK BAGHERWAL - AI PORTFOLIO ASSISTANT
+================================================================================
+Use this document to train the Botpress Knowledge Base for Onik Bagherwal's Portfolio Chatbot.
+
+1. BASIC IDENTITY & PROFILE
+- Full Name: Onik Bagherwal
+- Profession/Role: B.Tech Student & AI Enthusiast
+- University: JECRC University, Jaipur, Rajasthan, India
+- Location: Jaipur, Rajasthan, India
+- Email: onik.26bcon1993@jecrc.edu.in
+- Bio: Onik Bagherwal is a passionate 1st-year B.Tech student at JECRC University with a deep interest in artificial intelligence, modern web development, and digital productivity. He enjoys learning emerging technologies and converting conceptual ideas into clean, functional digital products.
+
+2. ACADEMIC & EDUCATION DETAILS
+- Current Degree: Bachelor of Technology (B.Tech)
+- University Name: JECRC University
+- University Location: Jaipur, Rajasthan
+- Current Status: 1st Year Undergraduate Student
+- Key Subjects & Learning Areas:
+  * Data Structures and Algorithms (DSA)
+  * Artificial Intelligence & Generative AI Foundations
+  * Modern Web Development (HTML5, CSS3, JavaScript, React)
+  * Database Management Systems (DBMS)
+  * Software Engineering Principles & Digital Productivity Tools
+
+3. TECHNICAL SKILLS
+- Programming Languages: Python (scripting, logic, AI/ML libraries), JavaScript (ES6+, DOM, async programming)
+- Web & Frontend Technologies: HTML5 (semantic structure, accessibility), CSS3 (Tailwind CSS, Flexbox, Grid, Glassmorphism, responsive design), React, Vite
+- Artificial Intelligence: AI fundamentals, machine learning concepts, algorithmic problem solving
+- Generative AI: Prompt engineering, LLM API integration, AI-assisted development tools
+- Digital Productivity: Workflow automation, Notion systems, Git/GitHub version control, time-blocking methods
+
+4. PROJECTS
+- Project 1: Personal Portfolio Website
+  * Description: A modern, responsive, high-performance portfolio website built using React, Vite, and Tailwind CSS.
+  * Features: Dark-themed glassmorphism UI, interactive project modals, 1-click email copy, mobile drawer navigation, deployed on Vercel.
+  * Tech Stack: React, Vite, Tailwind CSS, JavaScript, Lucide Icons, Vercel.
+
+- Project 2: AI Website Project
+  * Description: An interactive web application exploring Generative AI capabilities for smart prompt processing and conversational workflows.
+  * Features: Real-time prompt response generation, parameter controls, clean research-focused dark interface.
+  * Tech Stack: Python, Generative AI APIs, React, Tailwind CSS.
+
+- Project 3: Student Productivity Project
+  * Description: A digital student workspace combining daily task management with integrated Pomodoro study timers to maximize focus and academic efficiency.
+  * Features: Priority-based task board, customizable Pomodoro timer, progress tracking, offline LocalStorage support.
+  * Tech Stack: React, JavaScript, Tailwind CSS, LocalStorage.
+
+5. CERTIFICATIONS & ACHIEVEMENTS
+- AI & Machine Learning Foundations: Certified in core AI concepts, algorithmic workflows, and model evaluation metrics (2024).
+- Modern Web Development Bootcamp: Comprehensive training in responsive design, modern JavaScript, and UI frameworks (2024).
+- University Tech Hackathon Participant: Actively participated in JECRC University hackathon sprints prototyping educational software (2024).
+- Digital Productivity & Workflow Systems: Specialized coursework in personal knowledge management and automated study systems (2023-2024).
+- Academic Diligence: Consistent academic performance and commitment to practical project development at JECRC University.
+
+6. AREAS OF INTEREST & CAREER GOALS
+- Areas of Interest: Artificial Intelligence, Generative AI models, Full-Stack Web Development, Human-Computer Interaction, and Smart Productivity Automation.
+- Career Goals: To master software engineering and AI systems, build scalable tech products that solve real-world problems, contribute to innovative open-source projects, and pursue opportunities as a software/AI engineer.
+
+7. CONTACT & SOCIAL PROFILES
+- Email: onik.26bcon1993@jecrc.edu.in
+- University Campus: JECRC University, Jaipur, Rajasthan
+- GitHub: https://github.com/onik-bagherwal
+- LinkedIn: https://www.linkedin.com/in/onik-bagherwal
+- Preferred Communication: Email or LinkedIn for academic collaborations, project discussions, and tech opportunities.
